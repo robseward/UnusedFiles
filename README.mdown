@@ -1,0 +1,4 @@
+UnusedFiles
+=======
+
+I created this Ruby script to find unused files in my Xcode project. More information can be found in this blog post: [Cleaning Up](http://www.hjaltijakobsson.com/2010/2/11/cleaning-up "Cleaning Up").
